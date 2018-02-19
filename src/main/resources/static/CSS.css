@@ -1,0 +1,48 @@
+body{
+    background: white;
+}
+#float {
+    height: 200px;
+    width: 200px;
+    position: relative;
+}
+
+
+#float2 {
+    margin-left: 30px;
+    height: 200px;
+    width: 200px;
+    position: relative;
+}
+
+#float3 {
+    margin-left: 31px;
+    height: 200px;
+    width: 200px;
+    z-index: 2;
+    position: relative;
+}
+
+#float4 {
+    margin-left: 32px;
+    height: 200px;
+    width: 200px;
+    position: relative;
+}
+
+#float5 {
+    margin-left: 33px;
+    height: 200px;
+    width: 200px;
+    position: relative;
+}
+
+#hej {
+    font-size: 25px;
+    line-height: 250px;
+}
+
+.farve .ui-widget-header {
+    background: #29487d;
+    color: white;
+}
